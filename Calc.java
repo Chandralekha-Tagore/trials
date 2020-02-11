@@ -39,7 +39,7 @@ public class Calc {
         }
     }
 }
-public class Operations extends calc{
+public class Operations extends Calc{
     public void add(int x1, int x2){
         System.out.println("Sum="+(x1+x2));
     }
